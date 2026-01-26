@@ -1,16 +1,14 @@
-## Hi there 👋
+## Paul Rongieras
 
-<!--
-**paulrgs21/paulrgs21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MVA student at [ENS Paris-Saclay MVA](https://www.master-mva.com/).
 
-Here are some ideas to get you started:
+Here are some of my academic projects in Applied Mathematics and Machine Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some Projects :
+
+* Analysis of longitudinal data based on semi-Markovian models [Project](https://github.com/paulrgs21/Memoire_M1)
+* Extension of "Spatial Modeling and Future Projection of Extreme Precipitation Extents", P. Zhong et al. (2025) [Project](https://github.com/mdb0/extreme-precipitation-extents)
+
+### How to reach me :
+
+* [LinkedIn](https://www.linkedin.com/in/paul-rongieras/)
