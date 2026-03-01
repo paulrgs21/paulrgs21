@@ -8,6 +8,7 @@ Here are some of my academic projects in Applied Mathematics and Machine Learnin
 
 * Analysis of longitudinal data based on semi-Markovian models [Project](https://github.com/paulrgs21/Memoire_M1)
 * Symbolic representation of time series utilizing ABBA and LSTM [Project](https://github.com/paulrgs21/abba-lstm)
+* Automatic Speech Recognition according to the ML-SUPERB benchmark [Project](https://github.com/paulrgs21/ml-superb)
 * Anomaly detection in signals utilizing deep learning [Project](https://github.com/paulrgs21/anomaly_detection)
 * Extension of "Spatial Modeling and Future Projection of Extreme Precipitation Extents", P. Zhong et al. (2025) [Project](https://github.com/paulrgs21/extreme-precipitation-extents)
 
