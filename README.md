@@ -1,6 +1,6 @@
 ## Paul Rongieras
 
-[MVA](https://www.master-mva.com/) student at [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
+[MVA](https://www.master-mva.com/) student at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) & Research Intern at [Inria](https://www.inria.fr/fr) ([Compact](https://www.inria.fr/fr/compact) team).
 
 Here are some of my academic projects in Applied Mathematics and Machine Learning:
 
